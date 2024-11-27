@@ -44,7 +44,7 @@
 
 
 # for i in range(0,11):
-#     print(f"{i}*2 =")
+#     print(f"{i}*2 ={i*2}")
 
 
 # 3 7 11 15 19
@@ -56,6 +56,52 @@
 # range(0,20)
 # 0 to 13
 
-for i in range(0,20):
+# for i in range(0,20):
     # print(i) 0 to 13
     # print(i)   12 17
+
+
+
+# for i in range(10,0,-2):
+#     print(i)
+
+# a = "hello"
+# for x in a:
+#     print(x)
+# for a in "kullu":
+#     print(a)
+
+# for a in range(0,10):
+#     print(a)
+
+# a = 0
+# while a<=10:
+#     print(a)
+#     a = a+1
+
+
+# a = 1
+# while a<=10:
+#     print(a*3)
+#     a = a+1
+
+
+# for a in range(10):
+#     if a==7:
+#         break
+#     print(a)
+
+
+
+# for a in range(10):
+#     if a==6 or a==4:
+#         continue
+#     print(a)
+
+# number = int(input("enter any number"))
+# sum = 0
+# for a in range(number):
+#     sum = sum+a
+# print(sum)
+
+
