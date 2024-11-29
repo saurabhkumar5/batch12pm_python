@@ -46,5 +46,26 @@
 # print(a+" "+b)
 
 
-a = "hello "
-print(a*5)
+# a = "hello "
+# print(a*5)
+
+# name = "sumit"
+# age = 20
+
+# print(f"my name is {name} and my age is {age}")
+
+
+# name = "anup"
+# del name
+# print(name)
+
+
+
+# greet = "welcome"
+# print(greet[0:3])
+# print(greet[3:-1])
+# print(greet[-4:-1])
+# print(greet[2:])
+# print(greet[:3])
+
+
