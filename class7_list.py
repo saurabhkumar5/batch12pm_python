@@ -47,3 +47,9 @@
 # # print(arr)
 # for a in arr:
 #     print(a)
+
+
+# a = list((1,2,3,4))
+# print(type(a))
+
+
